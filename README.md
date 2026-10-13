@@ -1,5 +1,7 @@
 # iKuai for Home Assistant
 
+[简体中文](README.md) | [English](README.en.md)
+
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=noahBin23&repository=hass-ikuai&category=integration)
 [![Release](https://img.shields.io/github/v/release/noahBin23/hass-ikuai)](https://github.com/noahBin23/hass-ikuai/releases)
 [![HACS validation](https://github.com/noahBin23/hass-ikuai/actions/workflows/action.yml/badge.svg)](https://github.com/noahBin23/hass-ikuai/actions/workflows/action.yml)

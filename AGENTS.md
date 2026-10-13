@@ -9,7 +9,7 @@ This public repository maintains the `ikuai` Home Assistant integration. Keep it
 - `tests/`: protocol, configuration flow, entity lifecycle and packaging tests using fictional data and loopback HTTP servers only.
 - `scripts/`: local validation and reproducible release packaging; never include production deployment or private connection helpers.
 - `dist/`: locally generated versioned archives; ignored by Git and never automatically cleaned.
-- `README.md`, `CHANGELOG.md`, `LICENSE`, `NOTICE`, `hacs.json`, `pyproject.toml`, `requirements-dev.txt`: public documentation, attribution, installation metadata and developer tooling.
+- `README.md` (Chinese), `README.en.md` (English), `CHANGELOG.md`, `LICENSE`, `NOTICE`, `hacs.json`, `pyproject.toml`, `requirements-dev.txt`: public documentation, attribution, installation metadata and developer tooling. Keep both README files linked and their installation steps, supported features and compatibility limits aligned.
 - `.github/workflows/`: existing HACS and hassfest validation; workflow changes require explicit maintainer authorization.
 
 ## Rules
