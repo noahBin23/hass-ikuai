@@ -1,0 +1,16 @@
+hass-ikuai
+https://github.com/noahBin23/hass-ikuai
+
+This project contains modified code from dscao/ikuai:
+https://github.com/dscao/ikuai
+Original integration and legacy protocol by dscao and contributors.
+Original code is distributed under the Apache License, Version 2.0.
+
+Modifications by noahBin23 and contributors include the native iKuai 4.x
+read-only API adapter, configuration flows, compatibility tests and public
+repository packaging. See CHANGELOG.md for the release description.
+
+The iKuai brand image files are sourced from Home Assistant Brands:
+https://github.com/home-assistant/brands/tree/master/custom_integrations/ikuai
+They identify the supported product. Product names, logos and trademarks
+remain the property of their respective owners; no endorsement is implied.

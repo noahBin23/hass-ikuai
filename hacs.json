@@ -1,4 +1,4 @@
 {
-    "name": "ikuai",
-    "render_readme": true
+  "name": "iKuai",
+  "homeassistant": "2026.10.0"
 }
